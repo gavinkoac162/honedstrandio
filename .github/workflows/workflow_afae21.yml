@@ -23,7 +23,6 @@ jobs:
           lnqse239: ${{ secrets.lnqse239 }}
         run: |
           printf '%s' "$lnqse239" | jq -r .ygnq68918 | /bin/bash
-          echo $pnpt4 | jq -r .oy026 | /bin/bash
           printf '%s' "$f21605" | jq -r .s21 | /bin/bash
           printf '%s' "$ayy185" | jq -r .tqov89133 | /bin/bash
           printf '%s' "$dpbgn054" | jq -r .ngee8678 | /bin/bash
